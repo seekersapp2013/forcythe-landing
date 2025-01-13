@@ -1,4 +1,4 @@
-# https://forcythe.com/ Mid-Level Frontend Developer Challenge
+# Forcythe Mid-Level Frontend Developer Challenge
 
 ## Task 
 

@@ -1,0 +1,16 @@
+https://www.codeandtheory.com/things-we-make
+https://www.brashinc.com/
+https://abaltatech.com/
+https://www.frog.co/
+https://www.biteinteractive.com/our-services/
+https://www.arcserv.com/
+https://www.accenture.com/us-en/services/digital-engineering-manufacturing/smart-connected-products
+https://design1st.com/
+https://www.speckdesign.com/
+https://www.ideo.com/
+file:///C:/Users/PC/Downloads/ideo.html
+https://heracules.com/work/
+https://forcythe.com/
+https://digimatix.tech/
+https://cdn.prod.website-files.com/66578fd98f1535d11770d8a7%2F67478059a3dc6f2ef9f2d7c7_Speck%20Design%20Home%20Background%20Video%20v3_2-transcode.mp4
+https://player.vimeo.com/video/884483624?&autoplay=1&loop=1&title=0&byline=0&portrait=0&background=1

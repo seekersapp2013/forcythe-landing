@@ -1,0 +1,103 @@
+/* Base styles and CSS reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Smooth scrolling for the entire page */
+html {
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Dark mode background and text colors */
+body {
+  background-color: #121212;
+  color: #FFFFFF;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* Improved focus styles for accessibility */
+:focus {
+  outline: 2px solid #90CAF9;
+  outline-offset: 2px;
+}
+
+/* Hide focus styles for mouse users */
+:focus:not(:focus-visible) {
+  outline: none;
+}
+
+/* Smooth transitions for theme changes */
+* {
+  transition: background-color 0.2s ease, border-color 0.2s ease;
+}
+
+/* Improved scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #1E1E1E;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #333333;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #444444;
+}
+
+/* Selection styling */
+::selection {
+  background-color: rgba(144, 202, 249, 0.3);
+  color: #FFFFFF;
+}
+
+/* Improved link styles */
+a {
+  color: #90CAF9;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: #BBE3FF;
+}
+
+/* Improved image handling */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Improved form element focus states */
+input:focus,
+textarea:focus,
+button:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px #90CAF9;
+}
+
+.item {
+  border: 1px solid #000000;
+  padding: 20px;
+  border-radius: 4px;
+  margin-bottom: 20px;
+}
+
+.box {
+  flex-grow: 1;
+  max-width: 800px;
+  margin: auto;
+  padding: 15px;
+  font-family: sans-serif;
+  line-height: 1.5;
+}

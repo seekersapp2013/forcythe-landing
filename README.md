@@ -1,31 +1,23 @@
-# Base UI - Create React App example in JavaScript
+# https://forcythe.com/ Mid-Level Frontend Developer Challenge
 
-[Base UI](https://mui.com/base-ui/) is a library of unstyled React UI components and hooks.
+## Task 
 
-[Create React App](https://create-react-app.dev/) is a framework for quickly creating a new React project without the need to configure complex build tools or development environments.
-
-## How to use
-
-Download the example [or clone the repo](https://github.com/mui/material-ui):
+Your task is to design and build the front page of Forcythe.
 
 <!-- #default-branch-switch -->
 
-```bash
-curl https://codeload.github.com/mui/material-ui/tar.gz/master | tar -xz --strip=2 material-ui-master/examples/base-ui-cra
-cd base-ui-cra
-```
+## Demo URL
 
-Install it and run:
+https://forcythe-lemon.vercel.app/
 
-```bash
-npm install
-npm start
-```
+This is my task as requested. Here is how to set it up on local
 
-or:
+## Installation
 
-<!-- #default-branch-switch -->
+Step 1: Clone this repo
 
-[![Edit on StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/mui/material-ui/tree/master/examples/base-ui-cra)
+Step 2: yarn or npm install
 
-[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/sandbox/github/mui/material-ui/tree/master/examples/base-ui-cra)
+Step 3: yarn or npm start
+
+And it should open on localhost:3000
